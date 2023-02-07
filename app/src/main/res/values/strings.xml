@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LeagueManager</string>
+    <string-array name="names">
+        <item>Pargol</item>
+        <item>Daniel</item>
+        <item>Onkar</item>
+        <item>Rahul</item>
+        <item>Gloria</item>
+
+
+
+    </string-array>
+    <string name="col1">Date</string>
+    <string name="col2">Team 1</string>
+    <string name="col3">Team 2</string>
+    <string name="col4">Select</string>
+</resources>
